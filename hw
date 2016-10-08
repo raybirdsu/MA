@@ -1,0 +1,10 @@
+clc
+clear
+close all
+
+a = 5; b = 2;
+if a = 5;
+   b = b + 1;
+else
+   b = b + 2;
+end
